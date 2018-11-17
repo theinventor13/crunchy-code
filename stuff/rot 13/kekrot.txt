@@ -1,0 +1,50 @@
+guvf vf gur fgneg bs gur bevtvany hapbzcerffrq grkg, 
+jung sbyybjf vf gur svefg 15 qvtvgf bs cv: 3.14159265358979 
+abj gur svefg 12 ahzoref va gur svoobanppv frdhrapr:
+1 1 2 3 5 8 13 21 34 55 89 144 abj urerf rhyref 
+ahzore r = yvz (a -> vasvavgl) (1+1/a)^a naq abj 
+urerf gur clguntberna gurberz p = fdeg(n^2+o^2)
+naq abj urerf n uryyb jbeyq va P sbyybjrq ol n 
+uryyb jbeyq va P++:
+
+#vapyhqr <fgqvb.u>
+
+ibvq znva(ibvq){
+	cevags("Uryyb Jbeyq\a");
+	erghea;
+}
+
+#vapyhqr <vbfgernz>
+hfvat anzrfcnpr fgq;
+
+vag znva(ibvq){
+	pbhg << "Uryyb Jbeyq" << raqy;
+	erghea 0;
+}
+
+abj urerf gur svefg 4 fragraprf bs Arhebznapre:
+
+"Gur fxl nobir gur cbeg jnf gur pbybe bs gryrivfvba, gharq
+gb n qrnq punaary.
+`Vg'f abg yvxr V'z hfvat,' Pnfr urneq fbzrbar fnl, nf ur
+fubhyqrerq uvf jnl guebhtu gur pebjq nebhaq gur qbbe bs gur
+Pung. `Vg'f yvxr zl obql'f qrirybcrq guvf znffvir qeht qrsvpvrapl.'
+Vg jnf n Fcenjy ibvpr naq n Fcenjy wbxr. Gur Pungfhob
+jnf n one sbe cebsrffvbany rkcngevngrf; lbh pbhyq qevax gurer
+sbe n jrrx naq arire urne gjb jbeqf va Wncnarfr."
+
+naq urerf n yvahk sbex obzo :(){:|:?} 
+naq abj urerf fbzr nfpvv neg:
+
+ nnn  l   l l   l   y      zzz zzz   nnn   bbb
+nn nn l   l l   l   y     zz zzz zz nn nn bb bb
+n   n ll  l ll  l   y     z   z   z n   n b   b
+nnnnn  llll  llll   y     z   z   z nnnnn b   b
+n   n     l     l   y     z   z   z n   n b   b
+n   n     l     l   y     z   z   z n   n b   b
+n   n     l     l   y     z   z   z n   n bb bb
+n   n lllll lllll   yyyyy z   z   z n   n  bbb
+
+gur nobir fubhyq ernq "nll yznb"
+guvf vf gur raq bs gur bevtvany hapbzcerffrq grkg
+

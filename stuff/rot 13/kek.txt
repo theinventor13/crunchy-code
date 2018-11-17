@@ -1,0 +1,51 @@
+this is the start of the original uncompressed text, 
+what follows is the first 15 digits of pi: 3.14159265358979 
+now the first 12 numbers in the fibbonacci sequence:
+1 1 2 3 5 8 13 21 34 55 89 144 now heres eulers 
+number e = lim (n -> infinity) (1+1/n)^n and now 
+heres the pythagorean theorem c = sqrt(a^2+b^2)
+and now heres a hello world in C followed by a 
+hello world in C++:
+
+#include <stdio.h>
+
+void main(void){
+	printf("Hello World\n");
+	return;
+}
+
+#include <iostream>
+using namespace std;
+
+int main(void){
+	cout << "Hello World" << endl;
+	return 0;
+}
+
+now heres the first 4 sentences of Neuromancer:
+
+"The sky above the port was the color of television, tuned
+to a dead channel.
+`It's not like I'm using,' Case heard someone say, as he
+shouldered his way through the crowd around the door of the
+Chat. `It's like my body's developed this massive drug deficiency.'
+It was a Sprawl voice and a Sprawl joke. The Chatsubo
+was a bar for professional expatriates; you could drink there
+for a week and never hear two words in Japanese."
+
+and heres a linux fork bomb :(){:|:?} 
+and now heres some ascii art:
+
+ aaa  y   y y   y   l      mmm mmm   aaa   ooo
+aa aa y   y y   y   l     mm mmm mm aa aa oo oo
+a   a yy  y yy  y   l     m   m   m a   a o   o
+aaaaa  yyyy  yyyy   l     m   m   m aaaaa o   o
+a   a     y     y   l     m   m   m a   a o   o
+a   a     y     y   l     m   m   m a   a o   o
+a   a     y     y   l     m   m   m a   a oo oo
+a   a yyyyy yyyyy   lllll m   m   m a   a  ooo
+
+the above should read "ayy lmao"
+this is the end of the original uncompressed text
+
+
