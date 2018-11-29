@@ -48,6 +48,7 @@ void loopy(int y, int x){
 }
 
 int main(int argc, char * argv[]){
+	/*
 	if(argc!=3){
 		printf("usage: ./loopy [rows] [columns]\n");
 	}else{
@@ -55,6 +56,7 @@ int main(int argc, char * argv[]){
 		int c = sti(argv[2]);
 		loopy(r,c);
 	}
+	*/
 	//Uncomment this to use without command line arguments
 	loopy(10,7); 
 	return 0;
